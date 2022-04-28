@@ -21,7 +21,7 @@
 				<td>작성자</td>
 				<td>조회수</td>
 				<td>작성일자</td>
-				<td>삭제</td>
+				<td>삭제D</td>
 			</tr>
 		</thead>
 	</table>
